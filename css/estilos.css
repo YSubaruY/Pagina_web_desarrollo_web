@@ -1,0 +1,132 @@
+*{ 
+	margin:0px;
+	padding:0px;
+}
+
+body{
+
+
+background-attachment: fixed;
+width: 1500px; height: 200px;
+background-image: url("https://www.xtrafondos.com/wallpapers/tanjiro-kamado-de-kimetsu-no-yaiba-3727.jpg");
+
+background-size: 100% 100%;
+color:#fff;
+
+
+
+ 
+color:#fff;
+
+}
+
+#contenedor{
+	width: 960px;
+	margin:auto;
+	opacity: 0.90;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 35px;
+	overflow: hidden;
+}
+
+header{
+	height: 150px;
+	background: #000;
+}
+
+header h1{
+	font-size: 50px;
+	text-align: center;
+	line-height: 150px;
+}
+
+nav{
+		background-attachment: fixed;
+		background-size: 100% 100%;
+		background-image: url("https://i.pinimg.com/originals/12/b3/c0/12b3c08541ef028879828312c31d7a9d.jpg");
+	    height: 58px;
+	    
+
+}
+
+nav h2{
+	font-size: 40px;
+	text-align: center;
+	line-height: 60px;
+}
+
+ul{
+		list-style-type: none; 
+		margin: 0;
+		padding: 0.4em;
+		display: flex;
+		flex-direction: row;
+	}
+
+	li{ flex-grow: 1; }
+
+	a{
+		display: block;
+		padding: 0.9em;  /* altura de la caja */
+		background-attachment: fixed;
+		background-size: 100% 100%;
+		background-image: url(https://thumbs.gfycat.com/UnacceptableCornyJunebug.webp);
+		text-align: center;
+		margin-right: 0.5em;          /*   8pt;  */  
+		text-decoration:none;  
+		color: #000;   /*  black;  */
+	}
+   a:hover {
+	background-color: LightCoral;
+   }
+
+#contenido{
+	width: 700px;
+	height: 500px;
+	opacity: 0.90;
+	float: left;
+	background-color: #777799;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+}
+
+#contenido h3{
+	font-size: 30px;
+	text-align: center;
+	line-height: 500px;
+
+}
+
+aside{
+	width: 250px;
+	height: 500px;
+	opacity: 0.90;
+	background-color: #777799;
+    color: #FFFFFF;
+	margin-top: 10px;
+	float: right;
+	
+}
+
+aside h7{
+	font-size: 20px;
+	text-align: center;
+	line-height: 500px;
+
+}
+
+footer{
+	background: #000;
+	clear: both;
+
+}
+
+footer h5{
+	font-size: 12px;
+	text-align: center;
+	padding: 25px;
+	font-style: italic;
+}
