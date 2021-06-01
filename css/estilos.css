@@ -8,7 +8,7 @@ body{
 
 background-attachment: fixed;
 width: 1500px; height: 200px;
-background-image: url("https://www.xtrafondos.com/wallpapers/tanjiro-kamado-de-kimetsu-no-yaiba-3727.jpg");
+background-image: url("https://images2.alphacoders.com/775/thumb-1920-77572.png");
 
 background-size: 100% 100%;
 color:#fff;
@@ -93,10 +93,10 @@ ul{
 
 }
 
-#contenido h3{
+#contenido h1{
 	font-size: 30px;
 	text-align: center;
-	line-height: 500px;
+	line-height: 50px;
 
 }
 
