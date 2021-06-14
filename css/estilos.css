@@ -81,6 +81,23 @@ ul{
 	background-color: LightCoral;
    }
 
+#contenido1{
+	width: 1000px;
+	height: 4770px;
+	opacity: 1;
+	float: left;
+	background-color: #777799;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+}
+aside h8{
+	font-size: 20px;
+	text-align: center;
+	line-height: 500px;
+
+}
 #contenido{
 	width: 700px;
 	height: 500px;
